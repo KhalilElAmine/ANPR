@@ -1,5 +1,5 @@
 # Script to create TFRecord files from train and test dataset folders
-
+# Originally from GitHub user datitran: https://github.com/datitran/raccoon_dataset/blob/master/generate_tfrecord.py
 
 """
 Usage:
