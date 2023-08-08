@@ -53,10 +53,10 @@ The ANPR Project seamlessly integrates TensorFlow's object detection, custom mod
 1.  open the `training.ipynb` notebook in Google Colab.
 2. Download the dataset from kaggle following this link: https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/codeInstead.
 3. Upload the dataset to your google drive for a faster access each time you open the notebook instead of downloading it each time.
-4. In case of training a custom mode, replace it with your own dataset. Make sure your dataset is organized in a similar structure as the provided dataset (images and corresponding annotations).
+4. In case of training a custom model, replace it with your own dataset. Make sure your dataset is organized in a similar structure as the provided dataset (images and corresponding annotations).
 5. Execute each cell in the notebook to train your custom ANPR model. 
 
 
 
-## License Plate Detection and Number Extraction
+### License Plate Detection and Number Extraction
 
