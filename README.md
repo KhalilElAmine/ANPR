@@ -59,4 +59,24 @@ The ANPR Project seamlessly integrates TensorFlow's object detection, custom mod
 
 
 ### License Plate Detection and Number Extraction
+To set up the environment and perform license plate detection and number extraction, follow these steps:
 
+1. **Create and Activate Virtual Environment:**
+
+   ```bash
+   # Create a virtual environment using Python 3.7
+   python3.7 -m venv license_plate_env
+   
+   # Activate the virtual environment
+   source license_plate_env/bin/activate
+   # Install ipykernel to use the virtual environment in Jupyter Notebook
+   pip install ipykernel
+   python -m ipykernel install --user --name=license_plate_env
+   # Install Jupyter Notebook
+   pip install jupyter
+   # Install TensorFlow 2.7
+   pip install tensorflow==2.7
+  
+   # Install PyTorch (specific version) to use easyOCR
+   pip install torch==1.9.0
+  
