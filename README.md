@@ -46,9 +46,15 @@ The ANPR Project seamlessly integrates TensorFlow's object detection, custom mod
    ```bash
    git clone https://github.com/YourUsername/ANPR.git
    cd ANPR
-# Usage
 
-## Training a Custom Model
+## Usage
+
+### Training a Custom Model
+1. Follow the steps under [Setting Up Google Colab](#setting-up-google-colab) to open the `training.ipynb` notebook in Google Colab.
+2. Instead of using the provided ANPR dataset, replace it with your own dataset. Make sure your dataset is organized in a similar structure as the provided dataset (images and corresponding annotations).
+3. Modify the training steps and parameters in the notebook according to your dataset and requirements.
+4. Execute each cell in the notebook to train your custom ANPR model.
+5. Once training is finished, the model will be saved to your Google Drive.
 
 1. Download the dataset from Kaggle (add specific instructions if required).
 
