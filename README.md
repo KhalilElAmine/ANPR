@@ -87,7 +87,6 @@ Open the detection.ipynb and switch the kernel to the created license_plate_env 
 3. **Run the License Plate Detection::**
 Execute the cells in the notebook to perform license plate detection and number extraction. Customize parameters and paths as needed.
 ## Licence
-## License
 
 ```plaintext
 MIT License
