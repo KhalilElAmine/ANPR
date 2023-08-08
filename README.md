@@ -46,3 +46,13 @@ The ANPR Project seamlessly integrates TensorFlow's object detection, custom mod
    ```bash
    git clone https://github.com/YourUsername/ANPR.git
    cd ANPR
+# Usage
+
+## Training a Custom Model
+
+1. Download the dataset from Kaggle (add specific instructions if required).
+
+2. Open the "Training.ipynb" notebook for a step-by-step guide to training your custom model using TensorFlow Object Detection (TFOD).
+
+## License Plate Detection and Number Extraction
+
