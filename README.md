@@ -50,15 +50,13 @@ The ANPR Project seamlessly integrates TensorFlow's object detection, custom mod
 ## Usage
 
 ### Training a Custom Model
-1. Follow the steps under [Setting Up Google Colab](#setting-up-google-colab) to open the `training.ipynb` notebook in Google Colab.
-2. Instead of using the provided ANPR dataset, replace it with your own dataset. Make sure your dataset is organized in a similar structure as the provided dataset (images and corresponding annotations).
-3. Modify the training steps and parameters in the notebook according to your dataset and requirements.
-4. Execute each cell in the notebook to train your custom ANPR model.
-5. Once training is finished, the model will be saved to your Google Drive.
+1.  open the `training.ipynb` notebook in Google Colab.
+2. Download the dataset from kaggle following this link: https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/codeInstead.
+3. Upload the dataset to your google drive for a faster access each time you open the notebook instead of downloading it each time.
+4. In case of training a custom mode, replace it with your own dataset. Make sure your dataset is organized in a similar structure as the provided dataset (images and corresponding annotations).
+5. Execute each cell in the notebook to train your custom ANPR model. 
 
-1. Download the dataset from Kaggle (add specific instructions if required).
 
-2. Open the "Training.ipynb" notebook for a step-by-step guide to training your custom model using TensorFlow Object Detection (TFOD).
 
 ## License Plate Detection and Number Extraction
 
