@@ -1,7 +1,7 @@
 # ANPR
 # Automated Number Plate Recognition (ANPR) Project
 
-![ANPR Banner](images/banner.jpg)
+
 
 The Automated Number Plate Recognition (ANPR) Project offers an end-to-end solution for real-time license plate detection and recognition. It includes training a custom model using TensorFlow Object Detection (TFOD), license plate detection using a camera feed, and accurate number extraction using EasyOCR.
 
