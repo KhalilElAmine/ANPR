@@ -38,7 +38,7 @@ The ANPR Project seamlessly integrates TensorFlow's object detection, custom mod
 - TensorFlow 2.7
 - PyTorch
 - EasyOCR
-- Other dependencies (specified in `requirements.txt`)
+
 
 ### Installation
 
