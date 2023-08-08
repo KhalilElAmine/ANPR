@@ -79,4 +79,4 @@ To set up the environment and perform license plate detection and number extract
   
    # Install PyTorch (specific version) to use easyOCR
    pip install torch==1.9.0
-  
+    ```
