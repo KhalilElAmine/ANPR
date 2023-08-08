@@ -85,3 +85,5 @@ To set up the environment and perform license plate detection and number extract
      #tap the following in cmd inside your virtual environment to open jupyter notebook
        jupyter notebook
 Open the detection.ipynb and switch the kernel to the created license_plate_env kernel. 
+3. **Run the License Plate Detection::**
+Execute the cells in the notebook to perform license plate detection and number extraction. Customize parameters and paths as needed.
