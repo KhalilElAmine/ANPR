@@ -15,7 +15,7 @@ The Automated Number Plate Recognition (ANPR) Project offers an end-to-end solut
 - [Usage](#usage)
   - [Training a Custom Model](#training-a-custom-model)
   - [License Plate Detection and Number Extraction](#license-plate-detection-and-number-extraction)
-- [License](#license)
+
 
 
 ## Overview
@@ -86,28 +86,4 @@ To set up the environment and perform license plate detection and number extract
 Open the detection.ipynb and switch the kernel to the created license_plate_env kernel. 
 3. **Run the License Plate Detection::**
 Execute the cells in the notebook to perform license plate detection and number extraction. Customize parameters and paths as needed.
-## Licence
 
-```plaintext
-MIT License
-
-Copyright (c) [Year] [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
