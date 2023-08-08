@@ -80,3 +80,8 @@ To set up the environment and perform license plate detection and number extract
    # Install PyTorch (specific version) to use easyOCR
    pip install torch==1.9.0
     ```
+ 2. **Open the detection notebook:**
+     ```bash
+     #tap the following in cmd inside your virtual environment to open jupyter notebook
+       jupyter notebook
+Open the detection.ipynb and switch the kernel to the created license_plate_env kernel. 
