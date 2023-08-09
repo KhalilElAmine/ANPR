@@ -1,5 +1,6 @@
 # ANPR
 # Automated Number Plate Recognition (ANPR) Project
+![Banner](Banner.png)
 
 
 
