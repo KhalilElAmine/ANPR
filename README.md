@@ -44,7 +44,7 @@ The ANPR Project seamlessly integrates TensorFlow's object detection, custom mod
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/ANPR.git
+   git clone https://github.com/KhalilElAmine/ANPR.git
    cd ANPR
 
 ## Usage
