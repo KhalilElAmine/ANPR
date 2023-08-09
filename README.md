@@ -85,8 +85,8 @@ To set up the environment and perform license plate detection and number extract
      ```bash
      #tap the following in cmd inside your virtual environment to open jupyter notebook
        jupyter notebook
-Open the detection.ipynb and switch the kernel to the created ANPR kernel. 
-![ANPR Kernel](ANPR_Kernel.png)
+Open the detection.ipynb and switch the kernel to the created ANPR kernel.![ANPR Kernel](ANPR_Kernel.PNG)
+
 
 
 3. **Run the License Plate Detection::**
