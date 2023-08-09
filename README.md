@@ -50,7 +50,8 @@ The ANPR Project seamlessly integrates TensorFlow's object detection, custom mod
 ## Usage
 
 ### Training a Custom Model
-1.  open the `training.ipynb` notebook in Google Colab.
+1.  open the `training.ipynb` notebook in Google Colab.![COlab_Image](Open_Colab.png)
+
 2. Download the dataset from kaggle following this link: https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/codeInstead.
 3. Upload the dataset to your google drive for a faster access each time you open the notebook instead of downloading it each time.
 4. In case of training a custom model, replace it with your own dataset. Make sure your dataset is organized in a similar structure as the provided dataset (images and corresponding annotations).
