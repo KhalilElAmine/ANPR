@@ -64,13 +64,13 @@ To set up the environment and perform license plate detection and number extract
 
    ```bash
    # Create a virtual environment using Python 3.7
-   python3.7 -m venv license_plate_env
+   python3.7 -m venv ANPR
    
    # Activate the virtual environment
-   source license_plate_env/bin/activate
+   source ANPR/bin/activate
    # Install ipykernel to use the virtual environment in Jupyter Notebook
    pip install ipykernel
-   python -m ipykernel install --user --name=license_plate_env
+   python -m ipykernel install --user --name=ANPR
    # Install Jupyter Notebook
    pip install jupyter
    # Install TensorFlow 2.7
@@ -83,7 +83,7 @@ To set up the environment and perform license plate detection and number extract
      ```bash
      #tap the following in cmd inside your virtual environment to open jupyter notebook
        jupyter notebook
-Open the detection.ipynb and switch the kernel to the created license_plate_env kernel. 
+Open the detection.ipynb and switch the kernel to the created ANPR kernel. 
 3. **Run the License Plate Detection::**
 Execute the cells in the notebook to perform license plate detection and number extraction. Customize parameters and paths as needed.
 
